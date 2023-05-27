@@ -1,1 +1,0 @@
-Cutouts for task one
