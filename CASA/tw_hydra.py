@@ -20,3 +20,4 @@ tclean(vis='sis14_twhya_calibrated_flagged.ms',
 
 imview('TW_Hydrae.psf')
 imview('TW_Hydrae.image')
+imstat('TW_Hydrae.image',box='49,55,69,75')
